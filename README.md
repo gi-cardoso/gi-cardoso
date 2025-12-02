@@ -22,11 +22,14 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
   <img 
     src="https://streak-stats.demolab.com?user=gi-cardoso&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=8"
     height="150"
   />
+  <img width="20" />
   <img 
     src="https://github-profile-trophy.vercel.app/?username=gi-cardoso&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false"
     height="150"
