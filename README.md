@@ -28,4 +28,23 @@
   </a>
 </div>
 
-<
+<br /><br />
+
+<!-- GitHub gráficos -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gi-cardoso&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gi-cardoso&theme=dracula&margin-w=10&margin-h=10&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
+
+<br /><br />
+
+<!-- Pac-Man -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gi-cardoso/gi-cardoso/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gi-cardoso/gi-cardoso/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gi-cardoso/gi-cardoso/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<br />
