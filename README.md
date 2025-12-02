@@ -18,7 +18,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/geovanacsilva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+    <img 
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&label=&style=for-the-badge" 
+      height="30" 
+    />
   </a>
 </div>
 
@@ -31,7 +34,7 @@
   />
   <img width="20" />
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=gi-cardoso&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false"
+    src="https://github-profile-trophy.vercel.app/?user=gi-cardoso&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false"
     height="150"
   />
 </div>
